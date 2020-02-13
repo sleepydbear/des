@@ -1,0 +1,11 @@
+Ledger V1.0 | robot - 2
+_____________________________
+{"current leader": 1, "path": [5.359285943156906, -0.43357128602053435], "timestamp": "47.573000000", "strength": 4, "blacklist": [], "location": [3.632, 0.22], "new leader": 3}
+_____________________________
+{"current leader": 1, "path": [5.0851772159370965, -3.651991055849775], "timestamp": "68.888000000", "strength": 1, "blacklist": [5.370348930358887, 1.1366280317306519], "location": [5.327, -2.751], "new leader": 2}
+_____________________________
+{"timestamp": "71.382000000", "location": [5.319, -2.564], "leader": "2", "target": [6.322916909897079, -3.7499999068677425],"message": "New group path confirmation"}
+_____________________________
+{"timestamp": "119.875000000", "message": "No frontier available, RTB", "robot": "2", "location": [9.759, 0.35]}
+_____________________________
+

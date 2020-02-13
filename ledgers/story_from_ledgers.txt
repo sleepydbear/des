@@ -1,0 +1,24 @@
+Consolidated story from ledger entries:
+_____________________________
+Event-1: At 47.57secs and location (3.63,0.22), MRS 1-5 split into groups 1-2 and 3-5 with robot 1 moving towards (5.36,-0.43)
+_____________________________
+Event-2: At 53.21secs and location (3.45,0.20), Robot 3 moved towards (5.05,1.19)
+_____________________________
+Event-3: At 68.89secs and location (5.33,-2.75), MRS 1-2 split into groups 1 and 2 with robot 1 moving towards (5.09,-3.65)
+_____________________________
+Event-4: At 71.38secs and location (5.32,-2.56), Robot 2 moved towards (6.32,-3.75)
+_____________________________
+Event-5: At 75.84secs and location (5.39,3.62), MRS 3-5 split into groups 3 and 4-5 with robot 3 moving towards (5.19,4.59)
+_____________________________
+Event-6: At 77.57secs and location (5.36,3.25), Robot 4 moved towards (4.32,4.95)
+_____________________________
+Event-7: At 87.64secs and location (5.35,-6.39), Robot 1 moved alone towards (6.13,-8.21). Following frontiers are unexplored: 1.(4.17,-8.17)
+_____________________________
+Event-8: At 119.88secs and location (9.76,0.35), Robot 2 unable to find new frontiers. Returning to base
+_____________________________
+Event-9: At 120.19secs and location (2.11,8.69), Robot 4 unable to find new frontiers. Returning to base
+_____________________________
+Event-10: At 122.91secs and location (8.73,8.68), Robot 3 unable to find new frontiers. Returning to base
+_____________________________
+Event-11: At 125.99secs and location (10.74,-8.28), Robot 1 unable to find new frontiers. Returning to base
+_____________________________
